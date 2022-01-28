@@ -1,0 +1,20 @@
+{
+  "name": "1stproject_with_react",
+  "version": "1.0.0",
+  "description": "A project for me to understand how to build a modern project with react from scratch, without the help of Create React App or other boilerplate generators.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binhnhu1409/1stproject_with_react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binhnhu1409/1stproject_with_react/issues"
+  },
+  "homepage": "https://github.com/binhnhu1409/1stproject_with_react#readme"
+}
