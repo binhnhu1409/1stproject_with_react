@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/binhnhu1409/1stproject_with_react/issues"
   },
-  "homepage": "https://github.com/binhnhu1409/1stproject_with_react#readme"
+  "homepage": "https://github.com/binhnhu1409/1stproject_with_react#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "and": "^0.0.3"
+  }
 }
